@@ -3,22 +3,22 @@ Profissional em formação na área de dados, com foco em Análise e Visualizaç
 
 ## Stacks
 
-### Data Analysis
+### Linguagens de Programação
 ![Python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=FFFFFF&style=for-the-badge)
+![Git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=FFFFFF&style=for-the-badge)
+### Bancos de Dados
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=FFFFFF&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### Análise de Dados
 ![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=FFFFFF&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/-numpy-013243?logo=numpy&logoColor=FFFFFF&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-4169E1?logo=postgresql&logoColor=FFFFFF&style=for-the-badge)
-
-### Version Control
-![Git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=FFFFFF&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-github-181717?logo=github&logoColor=FFFFFF&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Visualização de Dados
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
-
-## GitHub Stats
-<div align="justify">
-    <a href="https://github.com/JotaP53">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaP53&show_icons=true&theme=transparent">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaP53&layout=compact&&langs_count=8&theme=transparent"/>
-</div>
