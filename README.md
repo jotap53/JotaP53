@@ -21,3 +21,9 @@ I bridge data engineering and analytics, making data reliable and accessible for
 ![Git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=FFFFFF&style=for-the-badge)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## 📊 My Github Stats 
+<p align="center" >
+<a href="#"><img alt="João Pedro's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=jotap53&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+<p align="center" >
+<a href="#"><img  alt="João Pedro's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=jotap53&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
