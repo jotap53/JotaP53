@@ -7,7 +7,7 @@ Tenho experiência prática com Python, SQL, ETL, modelagem de dados e desenvolv
 
 Estou construindo uma trajetória sólida em direção ao universo de Machine Learning, combinando formação técnica, experiência no mercado e aprendizado contínuo em dados, infraestrutura e desenvolvimento.
 
-Meu contatos:
+Meus contatos:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
 [![g-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsjp53@gmail.com)
