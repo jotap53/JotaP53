@@ -1,12 +1,16 @@
-## 👋 Hi, I'm João Pedro!
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
-[![g-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsjp53@gmail.com)
+## 👋 Sejam bem-vind@s!
+Me chamo João Pedro.
 
 Atuo na interseção entre engenharia de software e engenharia de dados, desenvolvendo soluções que vão desde automações com RPA, sistemas web e pipelines de dados até análises e dashboards em Power BI e MS Fabric.
 
 Tenho experiência prática com Python, SQL, ETL, modelagem de dados e desenvolvimento backend, com foco crescente em arquitetura de dados e boas práticas de engenharia de software.
 
 Estou construindo uma trajetória sólida em direção ao universo de Machine Learning, combinando formação técnica, experiência no mercado e aprendizado contínuo em dados, infraestrutura e desenvolvimento.
+
+Meu contatos:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
+[![g-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsjp53@gmail.com)
 
 ## 🚀 Tech Stack
 
