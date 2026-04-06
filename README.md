@@ -2,14 +2,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
 [![g-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsjp53@gmail.com)
 
-**Analytics Engineer** focused on delivering business value through data.
+Atuo na interseção entre engenharia de software e engenharia de dados, desenvolvendo soluções que vão desde automações com RPA, sistemas web e pipelines de dados até análises e dashboards em Power BI e MS Fabric.
 
-- 🗄️ **SQL** — data querying, modeling and structuring for analytical consumption
-- 🐍 **Python** — data processing, automation and ETL pipeline development
-- 📊 **BI** — KPI dashboards and performance metrics for decision-making
-- 🤖 **RPA** — process automation for data extraction, update and standardization
+Tenho experiência prática com Python, SQL, ETL, modelagem de dados e desenvolvimento backend, com foco crescente em arquitetura de dados e boas práticas de engenharia de software.
 
-I bridge data engineering and analytics, making data reliable and accessible for business insights.
+Estou construindo uma trajetória sólida em direção ao universo de Machine Learning, combinando formação técnica, experiência no mercado e aprendizado contínuo em dados, infraestrutura e desenvolvimento.
 
 ## 🚀 Tech Stack
 
