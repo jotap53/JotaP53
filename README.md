@@ -34,8 +34,8 @@ Meus contatos:
 
 <div align="center">
     <a href="https://github.com/jotap53">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jotap53&show_icons=true&theme=tokyonight&hide_border=true">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jotap53&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jotap53&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jotap53&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
     </a>
 </div>
 
