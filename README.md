@@ -40,6 +40,4 @@ Meus contatos:
 </div>
 
 <p align="center" >
-<a href="#"><img alt="João Pedro's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=jotap53&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
-<p align="center" >
 <a href="#"><img  alt="João Pedro's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=jotap53&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
