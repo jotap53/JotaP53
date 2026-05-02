@@ -1,15 +1,11 @@
 ## 👋 Sejam bem-vind@s!
+
 Me chamo João Pedro.
 
-Profissional com atuação na interseção entre Engenharia de Dados, Ciência de Dados, Desenvolvimento Backend e Machine Learning. Tenho experiência prática na construção de pipelines de dados, arquiteturas de ingestão e transformação, automações com RPA e desenvolvimento de sistemas e APIs — sempre com foco em escalabilidade, boas práticas de engenharia de software e qualidade de código.
-
-Proficiente em Python e SQL, com vivência em ETL, modelagem de dados, desenvolvimento backend e ferramentas como Power BI e MS Fabric. No lado de Machine Learning, tenho experiência com bibliotecas como Scikit-Learn e fundamentos sólidos para construção, avaliação e interpretação de modelos supervisionados e não supervisionados.
-
-O que me diferencia é a combinação entre visão técnica de engenharia e base sólida em estatística e matemática — o que me permite não apenas construir sistemas que consomem modelos, mas compreender o que acontece dentro deles. Essa combinação me posiciona naturalmente no espaço onde dado, modelo e sistema se encontram.
-
-Atuo com uma mentalidade que vai além do dado isolado ou do código isolado — buscando sempre soluções que saem do notebook, escalam em produção e geram valor real.
+Engenheiro de Dados focado em resolver problemas buscando soluções que saem do notebook, escalam em produção e geram valor real.
 
 Engenharia de Dados | Desenvolvimento Backend | Ciência de Dados | Machine Learning | Python | SQL | ETL | Pipelines de Dados | Scikit-Learn | Power BI | MS Fabric | RPA
+
 Meus contatos:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
