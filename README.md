@@ -1,10 +1,16 @@
 ## 👋 Sejam bem-vind@s!
 
-Me chamo João Pedro.
+Utilizo Ciência de Dados para transformar dados em soluções práticas e impulsionar resultados. Com Python e SQL, identifico padrões, proponho análises e traduzo dados em decisões mais inteligentes. Profissional proativo e apaixonado por resolver problemas reais com dados.
 
-Engenheiro de Dados focado em resolver problemas buscando soluções que saem do notebook, escalam em produção e geram valor real.
+🎯 Interesses: Antifraude, visão computacional, LLM, modelagem de risco de crédito, serviços financeiros e machine learning aplicado.
 
-Engenharia de Dados | Desenvolvimento Backend | Ciência de Dados | Machine Learning | Python | SQL | ETL | Pipelines de Dados | Scikit-Learn | Power BI | MS Fabric | RPA
+🔧 Hard Skills
+
+- Modelagem & Análise: Engenharia de prompts, Redes Neurais Convolucionais, Isolation Forest, XGBoost, Random Forest, Regressão Logística, Análise de Sobrevivência.
+
+- Linguagens & Ferramentas: Python, SQL, scikit-learn, pandas, NumPy, Genai.
+
+- Dados & Infraestrutura: PostgreSQL, MySQL, Google Big Query, Git, Jupyter, VS Code, GitHub, Google Colab.
 
 Meus contatos:
 
