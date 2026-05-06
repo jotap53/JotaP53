@@ -1,16 +1,14 @@
-## 👋 Sejam bem-vind@s!
+## 👋 Welcome!
 
-Utilizo Ciência de Dados para transformar dados em soluções práticas e impulsionar resultados. Com Python e SQL, identifico padrões, proponho análises e traduzo dados em decisões mais inteligentes. Profissional proativo e apaixonado por resolver problemas reais com dados.
+I use data science to transform data into practical solutions and drive results. Using Python and SQL, I identify patterns, propose analyses, and translate data into smarter decisions. I am a proactive professional passionate about solving real-world problems with data.
 
-🎯 Interesses: Antifraude, visão computacional, LLM, modelagem de risco de crédito, serviços financeiros e machine learning aplicado.
+🎯 Interests: Anti-fraud, computer vision, LLM, credit risk modeling, financial services, and applied machine learning.
 
 🔧 Hard Skills
 
-- Modelagem & Análise: Engenharia de prompts, Redes Neurais Convolucionais, Isolation Forest, XGBoost, Random Forest, Regressão Logística, Análise de Sobrevivência.
-
-- Linguagens & Ferramentas: Python, SQL, scikit-learn, pandas, NumPy, Genai.
-
-- Dados & Infraestrutura: PostgreSQL, MySQL, Google Big Query, Git, Jupyter, VS Code, GitHub, Google Colab.
+- Modeling & Analysis: Prompt engineering, Convolutional Neural Networks, Isolation Forest, XGBoost, Random Forest, Logistic Regression, Survival Analysis.
+- Languages & Tools: Python, SQL, scikit-learn, pandas, NumPy, Genai.
+- Data & Infrastructure: PostgreSQL, MySQL, Google BigQuery, Git, Jupyter, VS Code, GitHub, Google Colab.
 
 Meus contatos:
 
