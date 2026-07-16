@@ -1,4 +1,4 @@
-## 👋 Welcome!
+## 👋 Seja bem-vindo!
 
 - Analista de Dados atuando na transformação de dados em decisões de negócio, da extração à análise e visualização, apoiando a tomada de decisão.
 - Experiência com análise de dados, modelagem de dados, construção de dashboards, análises estatísticas e disponibilização de datasets confiáveis para BI e apoio à decisão de negócio.
@@ -7,8 +7,8 @@
 
 ***Contatos:***
 
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
-- [![g-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsjp53@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
+[![g-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsjp53@gmail.com)
 
 ## 🚀 Tech Stack
 
