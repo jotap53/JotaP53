@@ -1,11 +1,13 @@
-## 👋 Seja bem-vindo(a)!
+# 👋 Seja bem-vindo(a)! 
+
+## 👨‍💻 Sobre
 
 - Analista de Dados atuando na transformação de dados em decisões de negócio, da extração à análise e visualização, apoiando a tomada de decisão.
 - Experiência com análise de dados, modelagem de dados, construção de dashboards, análises estatísticas e disponibilização de datasets confiáveis para BI e apoio à decisão de negócio.
 - Atuação com SQL, Python e ferramentas de análise, aplicando boas práticas de versionamento, automação, documentação e qualidade de dados para tornar informações escaláveis e reutilizáveis.
 - Tecnólogo pelo Centro Universitário Farias Brito em Análise e Desenvolvimento de Sistemas. Atualmente, cursando Bacharelado em Engenharia de Software pelo Centro Universitário Ateneu.
 
-***Contatos:***
+## 📫 Contatos
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotap53/)
 [![g-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinsjp53@gmail.com)
