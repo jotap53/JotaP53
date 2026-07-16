@@ -1,4 +1,4 @@
-## 👋 Seja bem-vindo!
+## 👋 Seja bem-vindo(a)!
 
 - Analista de Dados atuando na transformação de dados em decisões de negócio, da extração à análise e visualização, apoiando a tomada de decisão.
 - Experiência com análise de dados, modelagem de dados, construção de dashboards, análises estatísticas e disponibilização de datasets confiáveis para BI e apoio à decisão de negócio.
