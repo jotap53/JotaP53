@@ -2,10 +2,9 @@
 
 ## 👨‍💻 Sobre
 
-- Analista de Dados atuando na transformação de dados em decisões de negócio, da extração à análise e visualização, apoiando a tomada de decisão.
-- Experiência com análise de dados, modelagem de dados, construção de dashboards, análises estatísticas e disponibilização de datasets confiáveis para BI e apoio à decisão de negócio.
-- Atuação com SQL, Python e ferramentas de análise, aplicando boas práticas de versionamento, automação, documentação e qualidade de dados para tornar informações escaláveis e reutilizáveis.
-- Tecnólogo pelo Centro Universitário Farias Brito em Análise e Desenvolvimento de Sistemas. Atualmente, cursando Bacharelado em Engenharia de Software pelo Centro Universitário Ateneu.
+Analista de Dados com experiência em automação de processos, integração de dados e desenvolvimento de dashboards para apoiar a tomada de decisão. Utilizo SQL, Python, PostgreSQL e Power BI para transformar dados operacionais em informações confiáveis para o negócio.
+
+Possuo experiência na integração com APIs, modelagem de dados, desenvolvimento de pipelines de ingestão e análise exploratória de dados, sempre buscando soluções escaláveis, reutilizáveis e orientadas à qualidade dos dados.
 
 ## 📫 Contatos
 
@@ -22,15 +21,3 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-
-## 📊 My Github Stats
-
-<div align="center">
-    <a href="https://github.com/jotap53">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jotap53&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
-        <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jotap53&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-    </a>
-</div>
-
-<p align="center" >
-<a href="#"><img  alt="João Pedro's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=jotap53&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
